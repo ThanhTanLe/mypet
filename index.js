@@ -1,4 +1,4 @@
-var Dog = require('./Dog.js');
+//var Dog = require('./Dog.js');
 var Cat = require('./Cat');
-var dog = new Dog('Gấu');
-dog.bark();
+//var dog = new Dog('Gấu');
+//dog.bark();
